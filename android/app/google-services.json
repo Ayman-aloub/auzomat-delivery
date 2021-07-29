@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "864527959788",
+    "firebase_url": "https://termproject-81a0e-default-rtdb.firebaseio.com",
+    "project_id": "termproject-81a0e",
+    "storage_bucket": "termproject-81a0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864527959788:android:fe190bc37c5b7fd18747c9",
+        "android_client_info": {
+          "package_name": "com.example.auzomat_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864527959788-usrt9ukv6ald8u5n59l5e8dgenb0f3au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJZ9bpR4IesLjELU8bHmiUV8KUqvkmak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864527959788-usrt9ukv6ald8u5n59l5e8dgenb0f3au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864527959788:android:9836d4f1ce5e25e98747c9",
+        "android_client_info": {
+          "package_name": "com.example.fork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864527959788-usrt9ukv6ald8u5n59l5e8dgenb0f3au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJZ9bpR4IesLjELU8bHmiUV8KUqvkmak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864527959788-usrt9ukv6ald8u5n59l5e8dgenb0f3au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864527959788:android:a2d823357739f9008747c9",
+        "android_client_info": {
+          "package_name": "com.example.mapfollow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864527959788-usrt9ukv6ald8u5n59l5e8dgenb0f3au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJZ9bpR4IesLjELU8bHmiUV8KUqvkmak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864527959788-usrt9ukv6ald8u5n59l5e8dgenb0f3au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
